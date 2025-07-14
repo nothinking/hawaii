@@ -22,6 +22,10 @@
 2. GitHub 저장소의 `Settings` → `Pages`에서 `main` 브랜치와 `/ (root)` 디렉토리를 선택합니다.
 3. 잠시 후 `https://<본인아이디>.github.io/<저장소이름>/`에서 웹사이트를 확인할 수 있습니다.
 
+## 배포 주소
+
+> 예시: [https://seango.github.io/hawaii/](https://seango.github.io/hawaii/)
+
 ## 파일 구조
 - `index.html` : 메인 페이지
 - `README.md` : 프로젝트 설명 및 배포 방법
