@@ -1,5 +1,9 @@
 # Hawaii
 
+![하와이 여행 플래너 대표 화면](screenshots/overview.png)
+
+> 23일간의 오아후 가족 여행 플래너 - 여행 개요 탭 화면 예시
+
 이 프로젝트는 GitHub Pages를 이용해 배포되는 정적 웹사이트입니다.
 
 ## 하와이 여행 플래너 개요
@@ -24,7 +28,7 @@
 
 ## 배포 주소
 
-> 예시: [https://seango.github.io/hawaii/](https://seango.github.io/hawaii/)
+> 실제 배포 주소: [https://nothinking.github.io/hawaii/](https://nothinking.github.io/hawaii/)
 
 ## 파일 구조
 - `index.html` : 메인 페이지
